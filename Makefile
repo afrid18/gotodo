@@ -1,5 +1,5 @@
 run/gotodo:
-	@go run ./cmd/gotodo -add
+	@go run ./cmd/gotodo add
 
 build/todo:
-	@go build ./cmd/gotodo
+	@go build ./cmd/td/.
